@@ -17,4 +17,14 @@
         android:layout_marginStart="0dp"
         android:layout_marginTop="31dp"
         app:srcCompat="@drawable/Imagen_ic" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="58dp"
+        android:text="Como la flor "
+        android:textSize="30sp" />
 </RelativeLayout>
