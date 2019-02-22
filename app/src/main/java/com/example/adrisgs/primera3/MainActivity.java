@@ -32,7 +32,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        ImageView imagen
+        ImageView imagen=(ImageView)findViewById(R.id.imagenIcono);
+        imagen.setImageResource(R.drawable.imagen_ic);
 
         /*
         TextView mitexto= new TextView(this);

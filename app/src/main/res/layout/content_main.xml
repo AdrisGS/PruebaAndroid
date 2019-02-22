@@ -9,14 +9,14 @@
     tools:showIn="@layout/activity_main">
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/imagenIcono"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_marginStart="0dp"
         android:layout_marginTop="31dp"
-        app:srcCompat="@drawable/Imagen_ic" />
+        app:srcCompat="@drawable/imagen_ic" />
 
     <TextView
         android:id="@+id/textView"
