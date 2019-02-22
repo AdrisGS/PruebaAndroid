@@ -35,7 +35,7 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="35dp"
-        android:text="Hola k ace"
+        android:text="Hola k ace gua gua"
         android:textAlignment="center"
         android:textColor="@android:color/black"
         android:textSize="24sp" />
