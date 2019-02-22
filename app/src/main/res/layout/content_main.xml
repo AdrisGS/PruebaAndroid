@@ -27,4 +27,16 @@
         android:layout_marginTop="58dp"
         android:text="Como la flor :D so good"
         android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="205dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="35dp"
+        android:text="Hola k ace"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="24sp" />
 </RelativeLayout>
