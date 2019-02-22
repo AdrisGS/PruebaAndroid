@@ -32,6 +32,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        //para mostrar la imagen
+        //primero se accede al id de la imagen y luego en donde se encuentra
         ImageView imagen=(ImageView)findViewById(R.id.imagenIcono);
         imagen.setImageResource(R.drawable.imagen_ic);
 
