@@ -25,6 +25,6 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="58dp"
-        android:text="Como la flor :D soooo good"
+        android:text="Como la flor :D so good"
         android:textSize="30sp" />
 </RelativeLayout>
